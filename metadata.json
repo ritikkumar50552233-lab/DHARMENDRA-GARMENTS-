@@ -1,0 +1,6 @@
+{
+  "name": "Asme - Know It Then All",
+  "description": "Pioneering ideas for minds that create, build, and inspire. Innovation meets Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
